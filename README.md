@@ -27,7 +27,7 @@ You should install the following extensions:
 - the [`Python Debugger` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
 - the [`Mypy Type Checker` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
 
-A `mypy.ini` file at the root of this repository instructs Mypy to run in strict mode.
+A `mypy.ini` file at the root of this repository instructs Mypy to run in [strict mode](https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-strict).
 
 ## Command Line Tools
 
