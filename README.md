@@ -18,7 +18,18 @@ Materials for the Oct 2024 iteration of OOP.
 - [Python's Data Model](https://docs.python.org/3/reference/datamodel.html)
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
-## Useful Tools
+## Visual Studio Code
+
+You should install [VS Code](https://code.visualstudio.com/) and set it up for [Python](https://code.visualstudio.com/Docs/languages/python).
+You should install the following extensions:
+
+- the [`Python` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- the [`Python Debugger` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+- the [`Mypy Type Checker` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
+
+A `mypy.ini` file at the root of this repository instructs Mypy to run in strict mode.
+
+## Command Line Tools
 
 The [Mypy](https://github.com/python/mypy) static type-checker (in strict mode):
 
@@ -44,5 +55,5 @@ ruff format <module>
 
 ## Naming your local files
 
-To avoid conflicts with the files pushed into this repository, make sure your local working copies of files have names ending in `-local.py`, or that they are contained in folder with names ending in `-local`.
+To avoid conflicts with the files pushed into this repository, make sure that your local working copies of files have names ending in `-local.py`, or that they are contained in folder with names ending in `-local`.
 There are `.gitignore` rules set up to ignore such files and folders in commits.
