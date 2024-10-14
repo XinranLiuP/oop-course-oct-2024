@@ -2,6 +2,12 @@
 
 Materials for the Oct 2024 iteration of OOP.
 
+- This week's exercises are in [EXERCISES.md](EXERCISES.md).
+- A sample assignment is in [ASSIGNMENT.md](ASSIGNMENT.md).
+
+The repository for this is: https://github.com/sg495/oop-course-oct-2024
+
+
 ## Some Python books
 
 - [The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)
@@ -28,6 +34,8 @@ You should install the following extensions:
 - the [`Mypy Type Checker` extension](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
 
 A `mypy.ini` file at the root of this repository instructs Mypy to run in [strict mode](https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-strict).
+
+You might have to set the Python language server to `Pylance` in settings, and you might have to set Auto-Import Completions to true on the language menu in the bottom right of the VS Code window.
 
 ## Command Line Tools
 
@@ -57,3 +65,4 @@ ruff format <module>
 
 To avoid conflicts with the files pushed into this repository, make sure that your local working copies of files have names ending in `-local.py`, or that they are contained in folder with names ending in `-local`.
 There are `.gitignore` rules set up to ignore such files and folders in commits.
+
