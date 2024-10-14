@@ -1,6 +1,11 @@
 # OOP Course - Oct 2024 Materials
 
 Materials for the Oct 2024 iteration of OOP.
+This week's exercises are in [EXERCISES.md](EXERCISES.md).
+A sample assignment is in [ASSIGNMENT.md](ASSIGNMENT.md)
+
+The repository for this is: https://github.com/sg495/oop-course-oct-2024
+
 
 ## Some Python books
 
