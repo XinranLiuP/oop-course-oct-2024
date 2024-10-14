@@ -4,8 +4,8 @@ This week's exercises will guide you through a mock implementation of a basic ba
 In tackling the exercises, you might wish to follow the specifications given in the [Assignment Example](./ASSIGNMENT.md).
 
 You should read the [Specification](#specification) and then proceed to follow the steps listed under [Implementation](#implementation).
-The afternoons Mon-Wed 2pm-5pm will be dedicated to the exercises, so you can work through the implementation at your own pace.
-I will implement the library as a live-coding exercise on Thursday.
+The afternoons Tue-Thu 2pm-5pm will be dedicated to the exercises, so you can work through the implementation at your own pace.
+I will implement the library as a live-coding exercise on Fri 9-12.
 
 # Specification
 
